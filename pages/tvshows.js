@@ -12,7 +12,6 @@ import PageContext from '../context/PageContext';
 const TvShows = () => {
   //const resultStorage = JSON.parse(localStorage.getItem('content')) || "[]"
   
-  const { contents } = useContext(PageContext);
   const [result, setResult] = useState([]);
   const [index, setIndex] = useState("");
   const [image, setImage] = useState("");
