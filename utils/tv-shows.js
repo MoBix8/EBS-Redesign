@@ -1,9 +1,9 @@
 const Shows = [
     {
         id: 1,
-        title: 'ዳጊ ሾው',
+        title: 'ነገረ ንዋይ',
         img: '/tv-shows/NegereNeway_Poster-1.webp',
-        description: 'Hosted by the talented and passionate Dagmawit Kifle, Daggy Show is all about presenting true stories and inspiring generations for a better tomorrow.',
+        description: 'Neger Neway” is TV based financial literacy program prepared by SPEED Ethiopia and is being broadcasted on EBS TV.',
         airTime: '--:--'
     },
     {
