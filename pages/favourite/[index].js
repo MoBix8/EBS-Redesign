@@ -75,6 +75,7 @@ export default function TvShows({results}) {
     const { index } = router.query;
     
     //console.log(results[index]);
+    if(!Favourite[Number(index-1)]) return null
     return <div>
       <Head>
         <title>{Favourite[Number(index-1)]?.title} |  </title>
