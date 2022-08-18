@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Background from '../components/background';
+import Background from '../components/Background';
 import ShowsView from '../components/ShowsView';
 import RokuView from '../components/adverts/RokuView';
 import PosterView from '../components/adverts/PosterView';
