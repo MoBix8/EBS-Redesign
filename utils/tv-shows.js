@@ -2,7 +2,7 @@ const Shows = [
     {
         id: 1,
         title: 'ዳጊ ሾው',
-        img: '/tv-shows/dagi-show.webp',
+        img: '/tv-shows/NegereNeway_Poster-1.webp',
         description: 'Hosted by the talented and passionate Dagmawit Kifle, Daggy Show is all about presenting true stories and inspiring generations for a better tomorrow.',
         airTime: '--:--'
     },
